@@ -30,3 +30,6 @@
 
 # Debug files
 *.dSYM/
+
+# flex output file
+lex.yy.c
