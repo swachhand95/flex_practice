@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1418812736 source:d:\code_dsa\recursion\main.cpp
+	"functions.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1418812639 
+
+1418812639 d:\code_dsa\recursion\functions.h
+	<string>
+
+1418812766 source:d:\code_dsa\recursion\functions.cpp
+	"functions.h"
+	<cmath>
+	<iostream>
+
+1418812766 
+
+1418812766 source:/home/swachhand/Code/Code_DSA/Recursion/functions.cpp
+	"functions.h"
+	<cmath>
+	<iostream>
+
+1418812639 /home/swachhand/Code/Code_DSA/Recursion/functions.h
+	<string>
+

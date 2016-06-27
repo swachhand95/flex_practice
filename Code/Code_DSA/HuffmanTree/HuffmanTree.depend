@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1419161722 source:d:\code_dsa\huffmantree\main.cpp
+	"PriorityQueue.h"
+	"HuffmanTree.h"
+	<iostream>
+	<fstream>
+
+1419007311 source:d:\code_dsa\huffmantree\src\priorityqueue.cpp
+
+1419018253 d:\code_dsa\huffmantree\include\priorityqueue.h
+	<iostream>
+
+1419101584 source:d:\code_dsa\huffmantree\src\huffmantree.cpp
+	"HuffmanTree.h"
+	"PriorityQueue.h"
+	<string>
+	<stack>
+	<iostream>
+
+1419158584 d:\code_dsa\huffmantree\include\huffmantree.h
+	<string>
+	<vector>
+
+1419001681 d:\code_dsa\huffmantree\include\node.h
+

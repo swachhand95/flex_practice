@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418976163 source:d:\code_dsa\threadedbst\main.cpp
+	"ThreadedBST.h"
+	<iostream>
+
+1418976194 d:\code_dsa\threadedbst\include\threadedbst.h
+
+1418976180 source:d:\code_dsa\threadedbst\src\threadedbst.cpp
+	"ThreadedBST.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418625172 source:d:\code_dsa\queuell\main.cpp
+	"QueueLL.h"
+	<iostream>
+
+1418622923 d:\code_dsa\queuell\queuell.h
+
+1418625296 source:d:\code_dsa\queuell\queuell.cpp
+	"QueueLL.h"
+	<iostream>
+

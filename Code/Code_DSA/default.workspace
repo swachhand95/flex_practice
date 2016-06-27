@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="HelloWorld/HelloWorld.cbp" />
+		<Project filename="DoublyLinkedList/DoublyLinkedList.cbp" />
+		<Project filename="SentinelDoublyLinkedList/SentinelDoublyLinkedList.cbp" />
+		<Project filename="Queue/Queue.cbp" />
+		<Project filename="LinkedList/LinkedList.cbp" />
+		<Project filename="CircularLinkedList/CircularLinkedList.cbp" />
+		<Project filename="CircularDoublyLinkedList/CircularDoublyLinkedList.cbp" />
+		<Project filename="StackLL/StackLL.cbp" />
+		<Project filename="QueueLL/QueueLL.cbp" />
+		<Project filename="Deque/Deque.cbp" />
+		<Project filename="CircularQueueLL/CircularQueueLL.cbp" />
+		<Project filename="TwoStacks/TwoStacks.cbp" />
+		<Project filename="PriorityQueueNaive/PriorityQueueNaive.cbp" />
+		<Project filename="Recursion/Recursion.cbp" />
+		<Project filename="ArrayLinkedList/ArrayLinkedList.cbp" />
+		<Project filename="BinaryTree/BinaryTree.cbp" />
+		<Project filename="tp/tp.cbp" />
+		<Project filename="BinarySearchTree/BinarySearchTree.cbp" />
+		<Project filename="Heaps/Heaps.cbp" />
+		<Project filename="ThreadedBST/ThreadedBST.cbp" />
+		<Project filename="HuffmanTree/HuffmanTree.cbp" />
+		<Project filename="Polynomials/Polynomials.cbp" />
+		<Project filename="LargeNumbers/LargeNumbers.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

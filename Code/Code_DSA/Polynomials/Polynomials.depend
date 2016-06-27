@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1419206238 source:d:\code_dsa\polynomials\circularlinkedlist.cpp
+	"CircularLinkedList.h"
+	<iostream>
+
+1419153386 d:\code_dsa\polynomials\circularlinkedlist.h
+
+1419208953 source:d:\code_dsa\polynomials\main.cpp
+	"CircularLinkedList.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418656673 source:d:\code_dsa\deque\main.cpp
+	"Deque.h"
+	<iostream>
+
+1418656739 d:\code_dsa\deque\include\deque.h
+
+1418656768 source:d:\code_dsa\deque\src\deque.cpp
+	"Deque.h"
+	<iostream>
+

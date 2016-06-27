@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418622752 source:d:\code_dsa\stackll\main.cpp
+	"StackLL.h"
+	<iostream>
+
+1418622909 d:\code_dsa\stackll\stackll.h
+
+1418622674 source:d:\code_dsa\stackll\stackll.cpp
+	"StackLL.h"
+	<iostream>
+

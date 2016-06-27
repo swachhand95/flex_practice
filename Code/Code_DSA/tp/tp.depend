@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418819549 source:d:\code_dsa\tp\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

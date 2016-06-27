@@ -1,0 +1,33 @@
+Infix to postfix:
+
+if char is operand then append it to the postfix string
+
+push into the stack if char is operator and:
+stack is empty
+op is '('
+op has greater precedence than stack top op
+op is '^' and stack top is also '^'
+
+when you encounter an op that has precedence <= precedence of stack top op then pop from the stack and append it to the postfix string till op has greater precedence than the stack top operator
+when op == ')' pop and append till the stack top op is '('
+when we are done processing the expr then pop all the elements from the stack till its empty
+
+Infix to prefix:
+
+Start traversing the string from the end down to the first element
+if char is operand then append it to the prefix string
+
+push into the stack if char is operator and:
+stack is empty
+op is ')'
+op has lower precedence than stack top op
+op is '^' and stack top is also '^'
+
+when you encounter an op that has precedence > precedence of stack top op then pop from the stack and append it to the prefix string till op has precedence <= precedence of stack top operator
+when op == '(' pop and append till the stack top op is ')'
+
+a + b * c
+
+a + bc *
+abc * +
+

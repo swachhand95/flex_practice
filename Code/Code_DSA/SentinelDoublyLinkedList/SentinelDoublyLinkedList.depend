@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418566321 source:d:\code_dsa\sentineldoublylinkedlist\main.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1418571600 source:d:\code_dsa\sentineldoublylinkedlist\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1418568130 d:\code_dsa\sentineldoublylinkedlist\doublylinkedlist.h
+

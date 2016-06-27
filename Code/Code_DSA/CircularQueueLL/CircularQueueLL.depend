@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418630904 source:d:\code_dsa\circularqueuell\circularqueuell.cpp
+	"CircularQueueLL.h"
+	<iostream>
+
+1418630147 d:\code_dsa\circularqueuell\circularqueuell.h
+
+1418630947 source:d:\code_dsa\circularqueuell\main.cpp
+	"CircularQueueLL.h"
+	<iostream>
+

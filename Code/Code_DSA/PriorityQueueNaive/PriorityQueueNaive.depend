@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418668914 source:d:\code_dsa\priorityqueuenaive\priorityqueue.cpp
+	"PriorityQueue.h"
+	<iostream>
+
+1418669199 d:\code_dsa\priorityqueuenaive\priorityqueue.h
+
+1418668643 source:d:\code_dsa\priorityqueuenaive\main.cpp
+	"PriorityQueue.h"
+	<iostream>
+

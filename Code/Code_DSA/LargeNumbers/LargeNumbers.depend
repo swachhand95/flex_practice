@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1419167737 source:d:\code_dsa\largenumbers\stackll.cpp
+	"StackLL.h"
+	<iostream>
+
+1419323443 
+
+1419167431 d:\code_dsa\largenumbers\stackll.h
+
+1419323443 source:d:\code_dsa\largenumbers\main.cpp
+	"StackLL.h"
+	<iostream>
+
+1419323443 source:/media/swachhand/E8F486ACF4867C96/Code_DSA/LargeNumbers/main.cpp
+	"StackLL.h"
+	<iostream>
+
+1419167431 /media/swachhand/E8F486ACF4867C96/Code_DSA/LargeNumbers/StackLL.h
+
+1419167737 source:/media/swachhand/E8F486ACF4867C96/Code_DSA/LargeNumbers/StackLL.cpp
+	"StackLL.h"
+	<iostream>
+
+1419323443 source:/home/swachhand/Code/Code_DSA/LargeNumbers/main.cpp
+	"StackLL.h"
+	<iostream>
+
+1419167431 /home/swachhand/Code/Code_DSA/LargeNumbers/StackLL.h
+
+1419167737 source:/home/swachhand/Code/Code_DSA/LargeNumbers/StackLL.cpp
+	"StackLL.h"
+	<iostream>
+

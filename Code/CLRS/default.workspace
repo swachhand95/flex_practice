@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../Code/CLRS/CH4_MaxSubarray/CH4_MaxSubarray.cbp" />
+		<Project filename="../../Code/CLRS/CH6_Heaps/CH6_Heaps.cbp" />
+		<Project filename="../../Code/CLRS/Algo1_QuickSort/Algo1_QuickSort.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

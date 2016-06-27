@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418618886 source:d:\code_dsa\circularlinkedlist\main.cpp
+	"CircularLinkedList.h"
+	<iostream>
+
+1418617638 d:\code_dsa\circularlinkedlist\circularlinkedlist.h
+
+1418618754 source:d:\code_dsa\circularlinkedlist\circularlinkedlist.cpp
+	"CircularLinkedList.h"
+	<iostream>
+

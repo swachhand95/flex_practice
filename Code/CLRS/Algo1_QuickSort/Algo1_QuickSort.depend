@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421236463 source:/home/swachhand/Code/CLRS/Algo1_QuickSort/main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418972528 source:d:\code_dsa\heaps\heap.cpp
+	"Heap.h"
+	<iostream>
+
+1418971368 d:\code_dsa\heaps\heap.h
+
+1418970527 source:d:\code_dsa\heaps\main.cpp
+	"Heap.h"
+	<iostream>
+

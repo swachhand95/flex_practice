@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418914547 source:d:\code_dsa\binarysearchtree\main.cpp
+	"BinarySearchTree.h"
+	<iostream>
+
+1418913891 d:\code_dsa\binarysearchtree\include\binarysearchtree.h
+
+1418914819 source:d:\code_dsa\binarysearchtree\src\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	<iostream>
+

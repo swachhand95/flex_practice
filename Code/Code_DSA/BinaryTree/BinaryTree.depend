@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1418961926 source:d:\code_dsa\binarytree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+	<cmath>
+	<stack>
+
+1418961933 d:\code_dsa\binarytree\binarytree.h
+	<iostream>
+
+1418961942 source:d:\code_dsa\binarytree\main.cpp
+	"BinaryTree.h"
+	<iostream>
+
